@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: Git is good for version control and making sure changes are backed up, synced, and allows for easy collaboration.
+
